@@ -170,7 +170,7 @@ This application can be used by:
 ## 📂 Repository Name
 
 ```
-stellar-flashcard-dapp
+Flashcards-Stellar-Workshop
 ```
 
 ---
