@@ -124,7 +124,7 @@ Provides a simple hint related to the flashcard.
 ### 🆔 Contract ID
 
 ```
-(Add your contract ID here after deployment)
+CB3RY6FADUTZWLZ6UASBRH2CXOZJYAMQCOSGXVH7A5CS7LHM6OBVQYQX
 ```
 
 ---
@@ -154,7 +154,6 @@ Include screenshots of:
 * Retrieving flashcards
 * Random flashcard result
 
-*(Insert screenshots here)*
 
 ---
 
